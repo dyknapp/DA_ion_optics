@@ -1,0 +1,49 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1089,         39]
+NotebookOptionsPosition[       733,         25]
+NotebookOutlinePosition[      1139,         41]
+CellTagsIndexPosition[      1096,         38]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData["SeriesCoefficient"], "Input",
+ CellChangeTimes->{{3.9539741005198793`*^9, 
+  3.953974103059705*^9}},ExpressionUUID->"1f53ec54-bd52-4f35-a065-\
+3007a74ce773"]
+},
+WindowSize->{569.25, 624.75},
+WindowMargins->{{669, Automatic}, {177, Automatic}},
+FrontEndVersion->"13.3 for Microsoft Windows (64-bit) (July 24, 2023)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"cffce861-664e-4dbe-8b27-fb2c53439927"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 171, 3, 28, "Input",ExpressionUUID->"1f53ec54-bd52-4f35-a065-3007a74ce773"]
+}
+]
+*)
+
+(* End of internal cache information *)
+
